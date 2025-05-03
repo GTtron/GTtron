@@ -13,6 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gttron816&show_icons=true&locale=en&layout=compact" alt="gttron816" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gttron816&show_icons=true&locale=en" alt="gttron816" /></p>
 
 
